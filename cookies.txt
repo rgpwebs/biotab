@@ -1,0 +1,4 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+www.biotab.es	TRUE	/	FALSE	1999999999	b8b74caeb7ecf1d488952e1288b71008	dd46437da5e073f7807c0ed6e8e3c00c
+
